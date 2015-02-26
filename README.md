@@ -13,3 +13,5 @@ Exemple with checkfile script:
 websocketd --port 8181 ./checkfile.sh
 
 It will listen for changes in mytextfile.txt
+
+![screenshot](https://cloud.githubusercontent.com/assets/119288/6393257/c5b0a37e-bdc8-11e4-9387-680d03b4a1c6.png)
